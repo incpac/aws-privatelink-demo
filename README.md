@@ -82,6 +82,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_consumer_endpoint_dns_names"></a> [consumer\_endpoint\_dns\_names](#output\_consumer\_endpoint\_dns\_names) | Dmoain names of the Consumer VPC Endpoint |
+| <a name="output_consumer_endpoint_dns_names"></a> [consumer\_endpoint\_dns\_names](#output\_consumer\_endpoint\_dns\_names) | Domain names of the Consumer VPC Endpoint |
 | <a name="output_consumer_public_ip"></a> [consumer\_public\_ip](#output\_consumer\_public\_ip) | Public IP address of the Consumer instance |
 <!-- END_TF_DOCS -->
